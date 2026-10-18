@@ -18,7 +18,7 @@ I like building enterprise backends in **Java & Spring Boot** and experimenting 
 | Project | What it does | Stack |
 |---|---|---|
 | [Leave Management API](https://github.com/saaranshmalik/leave-management-api) | Role-based leave workflow with JWT auth, approvals, Excel reports, 30 tests and CI | Java 21, Spring Boot 3, Spring Security, JPA, MySQL, Docker |
-| [Multimodal Emotion Recognition](https://github.com/saaranshmalik/multimodal-emotion-recognition) | Audio-visual emotion recognition that fuses a ViT (face) and Wav2Vec2 (speech) with a cross-modal Transformer | PyTorch, ViT, Wav2Vec2 |
+| [Multimodal Emotion Recognition](https://github.com/saaranshmalik/multimodal-emotion-recognition) | Co-authored review paper on facial + vocal emotion recognition (CNN, ViT, Wav2Vec2, Transformer fusion), with project framework | Deep learning, ViT, Wav2Vec2 |
 | [Student Performance Dashboard](https://github.com/arnav279/student-performance-dashboard) | Analytics for a 100-student cohort that flags at-risk students (team project) | Flask, Plotly, Docker, K8s |
 | [Stock Price Prediction](https://github.com/saaranshmalik/stock-price-prediction) | Predicts the next-day close from 60-day windows, with a web frontend | scikit-learn, Flask |
 <!-- Add once uploaded: | COVID Research Search | Hybrid BM25 + dense retrieval ranker; nDCG@10 0.817 on TREC-COVID | Python, BM25, Sentence Transformers | -->
